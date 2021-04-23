@@ -10,3 +10,7 @@ General
     The prototypes of all your functions should be included in your header file called crypto/hblk_crypto.h
     All your header files should be include guarded
 
+More Info
+Dependencies
+
+For this project, you will need to Install the OpenSSL library (if not already installed).
